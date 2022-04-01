@@ -16,7 +16,7 @@ int main()
   struct StudentData student;
   /*Assing the values to StudentData*/
   student.stu_name="ZhangJinwei";
-  student.stu_id=2023405;
+  student.stu_id=2023465;
   student.stu_age=22;
 
   /*Displaying the values of struct memeber*/
